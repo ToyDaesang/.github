@@ -16,6 +16,6 @@
 
 ### 🎥 [toy-youtube](https://github.com/orgs/ToyDaesang/projects/1)
 
-- ❤️ [toy-youtube-toy-youtube-wiki](https://github.com/ToyDaesang/toy-youtube-toy-youtube-wiki)
+- ❤️ [toy-youtube-toy-youtube-wiki](https://github.com/ToyDaesang/toy-youtube-wiki)
 - 🧡 [toy-youtube-frontend](https://github.com/ToyDaesang/toy-youtube-frontend)
 - 💛 [toy-youtube-backend](https://github.com/ToyDaesang/toy-youtube-backend)
